@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alise\AppData\local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alise\AppData\local\JetBrains\Rider2020.3\resharper-host\local\Transient\Rider\v203\SolutionCaches\_Week2-Singletons.212813206.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Alise\Dropbox\My PC (DESKTOP-5H29H7I)\Desktop\gc\summer code class\Codelab1-s21-ClassCode\Week2-Singletons" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="GameManager.cs" t="Include" />
+          <e p="ImpactBoop.cs" t="Include" />
+          <e p="PlayerControl.cs" t="Include" />
+          <e p="PlayerStart.cs" t="Include" />
+          <e p="Prize.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Week2-Singletons.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
